@@ -1,2 +1,2 @@
 # python_course
-Repositorio de prueba para clase
+Repositorio de ejercicios realizados en clase
